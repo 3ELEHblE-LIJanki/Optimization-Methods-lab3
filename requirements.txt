@@ -10,3 +10,6 @@ scikit-learn~=1.5.0
 category-encoders~=2.6.3
 imblearn~=0.0
 imbalanced-learn~=0.12.4
+tensorflow
+torch
+ucimlrepo
